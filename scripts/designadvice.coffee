@@ -14,7 +14,7 @@
 #  Meredith Noble 
 
 quotes = [
-"\"Nothing is more terrible than activity without insight.\" - Thomas Carlyle"
+"Nothing is more terrible than activity without insight. - Thomas Carlyle"
 ]
 
 module.exports = (robot) ->
