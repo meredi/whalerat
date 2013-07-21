@@ -17,7 +17,7 @@ quotes = [
 "\"Nothing is more terrible than activity without insight.\" - Thomas Carlyle",
 "\"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.\" - Antoine De Saint-Exupery",
 "\"Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that’s creativity.\" - Charles Mingus",
-"\"That a user should not be kept waiting unnecessarily is an obvious and humane design principle. It is also humane not to hurry a user; the more general principle is: Users should set the pace of an interaction.\" - Jef Raskin",
+"\"That a user should not be kept waiting unnecessarily is an obvious and humane design principle. It is also humane not to hurry a user\; the more general principle is: Users should set the pace of an interaction.\" - Jef Raskin",
 "\"A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.\" - Douglas Adams",
 "\"The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.\" - Tim Berners-Lee",
 "\"One should aim not at being possible to understand, but at being impossible to misunderstand.\" - Quintilian",
