@@ -28,7 +28,7 @@ quotes = [
   "Clutter is a failure of design, not an attribute of information. - Edward Tufte",
   "The only intuitive interface is the nipple. After that it's all learned. - Bruce Ediger",
   "Design must seduce, shape, and more importantly, evoke an emotional response. - April Greiman",
-  "Don't make something unless it's both necessary and useful. But if it is both necessary and useful, don't hesitate to make it beautiful." - Josh Porter",
+  "Don't make something unless it's both necessary and useful. But if it is both necessary and useful, don't hesitate to make it beautiful. - Josh Porter",
   "The details are not the details. They make the design. - Charles Eames",
   "It’s art if can’t be explained. It’s fashion if no one asks for an explanation. It’s design if it doesn’t need explanation. - Wouter Stokkel",
   "Designers shooting for usable is like a chef shooting for edible. - Aarron Walter",
