@@ -9,7 +9,7 @@
 #   None
 #
 # Commands:
-#   hubot design advice - Receive a quote 
+#   hubot design advice - Receive some advice about the practice of UX
 #
 # Author:
 #  Meredith Noble 
@@ -32,6 +32,7 @@ quotes = [
   "The details are not the details. They make the design. - Charles Eames",
   "It’s art if can’t be explained. It’s fashion if no one asks for an explanation. It’s design if it doesn’t need explanation. - Wouter Stokkel",
   "Designers shooting for usable is like a chef shooting for edible. - Aarron Walter",
+  "Good design must necessarily, in my opinion, have an impact on people’s lives, no matter how seemingly small. Good design changes things. - Garr Reynolds",
   "Designing without research is like getting into a taxi and just saying, 'Drive.' - Facebook product manager"
 ]
 

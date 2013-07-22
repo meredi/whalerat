@@ -2,8 +2,12 @@
 #  Overhears FPIK and shows french press photos. 
 
 module.exports = (robot) ->
-  robot.hear /(FPIK|coffee)/i, (msg) ->
+  robot.hear /(FPIK|coffee|french press in kitchen)/i, (msg) ->
     imageMe msg, "french press coffee", (url)  ->
+      msg.send url
+
+  robot.hear /(chemex|CHIK|CIK)/i, (msg) ->
+    imageMe msg, "chemex dripping", (url)  ->
       msg.send url
 
 imageMe = (msg, query, cb) ->
