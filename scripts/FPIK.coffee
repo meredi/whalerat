@@ -3,7 +3,7 @@
 
 module.exports = (robot) ->
   robot.hear /(FPIK|coffee)/i, (msg) ->
-    imageMe msg, msg.match[0],  ->
+    imageMe msg, msg.match[0], (url)  ->
     msg.send msg.random responses
 
 imageMe = (msg, query, cb) ->
