@@ -3,7 +3,7 @@
 
 module.exports = (robot) ->
   robot.hear /(FPIK|coffee)/i, (msg) ->
-    imageMe msg, msg.match[0], (url)  ->
+    imageMe msg, "french press coffee", (url)  ->
       msg.send url
 
 imageMe = (msg, query, cb) ->
