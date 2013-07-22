@@ -10,9 +10,6 @@ module.exports = (robot) ->
     imageMe msg, "chemex dripping", (url)  ->
       msg.send url
 
-  robot.hear /floater/i, (msg) ->
-     msg.send 'http://assets.perfectlytimedphotos.com/hashed_silo_content/silo_content/20922/resized/perfect.jpg'
-
 imageMe = (msg, query, cb) ->
   q = v: '1.0', rsz: '8', q: query, safe: 'active'
   msg.http('http://ajax.googleapis.com/ajax/services/search/images')
